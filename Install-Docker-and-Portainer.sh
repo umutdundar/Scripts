@@ -1,4 +1,4 @@
-# Docker and Portainer Installation 
+# Docker and Portainer Installation
 
 # Docker Installation
 sudo apt update
