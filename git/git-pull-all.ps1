@@ -1,0 +1,1 @@
+﻿Get-ChildItem -Directory | ForEach-Object { Write-Host("`r`ngit pull for: '$($_.FullName)'") | git -C "$($_.FullName)" pull }
